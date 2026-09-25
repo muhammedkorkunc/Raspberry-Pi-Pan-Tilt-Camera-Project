@@ -6,7 +6,9 @@ An embedded Linux IoT project built on **Raspberry Pi**, featuring real-time low
 
 ## 🖥️ System Interface & Live Stream Preview
 
-![Web Controller Interface](servodirectionalcontrolpage.png)
+![Web Controller Interface]
+(servodirectionalcontrolpage.png)
+(pan-tilt camera.png)
 
 ---
 
